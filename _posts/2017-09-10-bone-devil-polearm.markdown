@@ -39,7 +39,7 @@ tags: [large, fiend, cr12, monster-manual]
 
 **Actions**
 
-***Multiattack.*** The devil makes three attacks: two with its hooked polearm and one with its sting.
+***Multiattack.*** The devil makes two attacks: one with its hooked polearm and one with its sting.
 
 ***Hooked Polearm.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a huge or smaller creature, it is grappled (escape DC 14). Until the grapple ends, the devil can't use its polearm on another target.
 
